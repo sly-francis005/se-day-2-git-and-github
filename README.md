@@ -82,7 +82,6 @@ Inconsistent branching strategies
 Forgetting to pull latest changes before working
 
 Best practices:
-
 Write descriptive commit messages.
 Use feature branches for organized development.
 Regularly pull updates to avoid conflicts.
